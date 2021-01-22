@@ -1,0 +1,60 @@
+shell scripting
+Jenkins
+Airflow
+AWS
+GCP
+Azure
+CI/CD
+ETL scripts
+Elasticsearch
+Memcache
+Kafka
+logstash
+Aiohttp
+PostgreSQL
+MongoDB
+Redis
+RabbitMQ
+Jira, Bitbucket, Confluence
+RESTful APIs
+Heroku
+SOAP APIs
+Postman
+SOAPUI
+Wizdler
+MySQL
+Docker
+NodeJS
+Microservices Architecture
+K8S
+Kubernetes
+Selenium
+Virtualisation
+Groovy
+Git
+ELK
+Pytest
+OpenStack
+Helm
+ORM
+SQLalchemy
+queueing mechanisms (Kafka, RabbitMQ)
+Celery
+technology stack
+Nginx
+Supervisor
+unit testing
+Redux/MobX
+load testing
+integration testing
+TDD, Unit and automated tests
+event-driven architecture
+HTTP stack
+CRM
+Spark/PySpark
+BI tools
+system architecture, structuring
+data streaming
+Tableau
+
+
