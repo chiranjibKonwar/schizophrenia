@@ -12,12 +12,12 @@ Singapore,United Kingdom,New Zealand,Norway,Finland,Iceland,Spain,Italy,
 Portugal,France.
 =====================================================
 WISDOM
-1. Systems Design - Algoexpert.io
-2. Data structures and Algorithms - Algoexpert.io
+1. Systems Design - Algoexpert.io (already purchased)
+2. Data structures and Algorithms - Algoexpert.io  (already purchased)
 3. 50 Leetcode problems - Udemy course (already purchased)
 3. C and C ++ from Udemy - Udemy course already purchased.
 4. React + Javascript - Udemy course to be purchased.
-for https://developers.turing.com/ remote jobs.
+   for https://developers.turing.com/ remote jobs.
 5. Java programming - Udemy course already purchased.
 6. Python object oriented programming- Udemy course.
 7. Attend an English grammer class from a native English speaker.
